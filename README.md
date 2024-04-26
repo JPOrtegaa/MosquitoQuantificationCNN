@@ -14,7 +14,7 @@ Note: datasets that were not created by COEN have _AuthorName in the ending of t
 
 ## Installation
 ```plaintext
-git clone https://github.com/JPOrtegaa/MosquitoQuantificationCNN
+git clone https://github.com/JPOrtegaa/MosquitoQuantificationCNN_ERBD24
 cd MosquitoQuantificationCNN
 git clone https://github.com/JPOrtegaa/QuantifiersLibrary
 pip install -r requirements.txt
